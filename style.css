@@ -3,10 +3,11 @@ body {
 }
 
 .kretskortbilde {
-    height: 350px;
+    height: 450px;
     z-index: -1;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 95%;
+    width: 85%;
+    margin-top: 50px;
 }
