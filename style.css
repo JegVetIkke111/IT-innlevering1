@@ -11,3 +11,8 @@ body {
     width: 85%;
     margin-top: 50px;
 }
+
+.tittel {
+    z-index: 100;
+    position: absolute;
+}
