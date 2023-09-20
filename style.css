@@ -1,5 +1,10 @@
 body {
     background-color: #3f1a6e;
+    background-image: radial-gradient(circle, transparent 1%, #000 1%);
+    background-size: 20px 20px; 
+    background-position: 0 0;
+    width: 100%;
+    height: 100%;
 }
 
 .beholder {
@@ -17,7 +22,7 @@ body {
     transform: translateX(-50%);
     border-style: dotted;
     border-width: 50px;
-    border-color: pink;
+    border-color: #ffc0cb;
 }
 
 
