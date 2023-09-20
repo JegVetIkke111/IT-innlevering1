@@ -15,6 +15,9 @@ body {
     position: relative; 
     left: 50%;
     transform: translateX(-50%);
+    border-style: dotted;
+    border-width: 50px;
+    border-color: pink;
 }
 
 
