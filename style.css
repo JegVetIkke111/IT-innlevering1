@@ -8,7 +8,7 @@ body {
 }
 
 .beholder {
-    position: relative;
+    position: relative !important;
 }
 
 .kretskortbilde {
