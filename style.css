@@ -2,6 +2,7 @@ body {
     background-color: #3f1a6e;
     background-image: radial-gradient(circle, transparent 1%, #000 1%);
     background-size: cover; 
+    background-repeat: no-repeat;
     background-position: 0 0;
     width: 75%;
     height: 85%;
