@@ -34,5 +34,5 @@ body {
 h1, p, h2 {
     color: white;
     font-family: 'Inconsolata', monospace;
-    
+    background-color: rgba(0, 0, 0, 0.5);
 }
