@@ -47,15 +47,13 @@ p {
 
 .hovedbakgrunn {
     background-color: #3f1a6e;
-    width: 1086px;
     margin: 0 auto;
 }
 
 .introduksjonstekst {
-    border-width: 2px;
+    border-width: 10px;
     border-style: double;
     border-color: rgb(164, 125, 190);
-    width: 1086px;
     margin: 0 auto;
     text-align: left;
 }
