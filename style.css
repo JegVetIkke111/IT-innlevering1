@@ -48,7 +48,7 @@ p {
 .hovedbakgrunn {
     background-color: #3f1a6e;
     width: 1086px;
-    text-align: center;
+    margin: 0 auto;
 }
 
 .introduksjonstekst {
