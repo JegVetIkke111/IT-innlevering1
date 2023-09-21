@@ -38,3 +38,7 @@ h1, p, h2 {
     color: white;
     font-family: 'Inconsolata', monospace;
 }
+
+p {
+    font-size: 32px;
+}
