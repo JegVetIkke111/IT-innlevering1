@@ -39,12 +39,12 @@ h1, p, h2 {
     font-family: 'Inconsolata', monospace;
     text-align: center;
 }
-
-.introduksjonstekst {
-    font-size: 48px;
-}
  
 
 p {
     font-size: 32px;
+}
+
+.hovedbakgrunn {
+    background-color: #3f1a6e;
 }
