@@ -56,5 +56,5 @@ p {
     border-style: double;
     border-color: rgb(30, 6, 46);
     width: 1086px;
-    text-align: center;
+    margin: 0 auto;
 }
