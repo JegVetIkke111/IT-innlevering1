@@ -54,7 +54,8 @@ p {
 .introduksjonstekst {
     border-width: 2px;
     border-style: double;
-    border-color: rgb(30, 6, 46);
+    border-color: rgb(164, 125, 190);
     width: 1086px;
     margin: 0 auto;
+    text-align: left;
 }
