@@ -37,6 +37,7 @@
 h1, p, h2 {
     color: white;
     font-family: 'Inconsolata', monospace;
+    text-align: center;
 }
 
 p {
