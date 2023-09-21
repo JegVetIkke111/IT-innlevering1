@@ -52,7 +52,7 @@ p {
 
 .introduksjonstekst {
     border-width: 10px;
-    border-style: double;
+    border-style: dashed;
     border-color: rgb(164, 125, 190);
     margin: 0 auto;
     text-align: left;
