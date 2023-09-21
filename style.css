@@ -49,3 +49,9 @@ p {
     background-color: #3f1a6e;
     width: 1632px;
 }
+
+.introduksjonstekst {
+    border-width: 5px;
+    border-style:double;
+    border-color: white;
+}
