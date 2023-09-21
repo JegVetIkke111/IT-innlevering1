@@ -48,6 +48,7 @@ p {
 .hovedbakgrunn {
     background-color: #3f1a6e;
     width: 1086px;
+    text-align: center;
 }
 
 .introduksjonstekst {
@@ -55,4 +56,5 @@ p {
     border-style: double;
     border-color: rgb(30, 6, 46);
     width: 1086px;
+    text-align: center;
 }
