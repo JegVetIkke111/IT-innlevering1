@@ -48,8 +48,8 @@ p {
 .hovedbakgrunn {
     background-color: #3f1a6e;
     margin: 0 auto;
-    padding-left: 85%;
-    padding-right: 85%;
+    padding-left: -85%;
+    padding-right: -85%;
 }
 
 .introduksjonstekst {
@@ -59,7 +59,6 @@ p {
     margin: 0 auto;
     text-align: left;
     letter-spacing: 2px;
-    padding-left: 85%;
-    padding-right: 85%;
-    white-space: nowrap;
+    padding-left: -85%;
+    padding-right: -85%;
 }
