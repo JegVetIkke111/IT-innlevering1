@@ -59,6 +59,5 @@ p {
     margin: 0 auto;
     text-align: left;
     letter-spacing: 2px;
-    padding-left: -85%;
-    padding-right: -85%;
+    padding: 10px;
 }
