@@ -47,6 +47,7 @@ h2 {
 p {
     font-size: 23px;
     letter-spacing: 2px;
+    text-align: left !important;
 }
 
 .hovedbakgrunn {
