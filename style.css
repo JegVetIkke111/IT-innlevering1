@@ -62,11 +62,8 @@ p {
     border-color: rgb(164, 125, 190);
     margin: 0 auto;
     padding: 0; 
-    width: 85%
-}
-
-.introduksjonstekst {
     text-align: left;
     letter-spacing: 2px;
     font-size: 13px !important;
+    width: 85%
 }
