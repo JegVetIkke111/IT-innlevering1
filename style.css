@@ -65,5 +65,9 @@ h2 {
 p {
     font-size: 23px;
     letter-spacing: 2px;
+}
+
+.innhold {
     line-height: 1.5;
+    text-align: left;
 }
