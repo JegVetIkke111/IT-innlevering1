@@ -44,12 +44,6 @@ h2 {
     font-size: 32px;
 }
 
-p {
-    font-size: 23px;
-    letter-spacing: 2px;
-    text-align: left !important;
-}
-
 .hovedbakgrunn {
     background-color: #3f1a6e;
     margin: 0 auto;
@@ -69,3 +63,8 @@ p {
     font-size: 25px;
 }
 
+p {
+    font-size: 23px;
+    letter-spacing: 2px;
+    text-align: left !important;
+}
