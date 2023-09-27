@@ -45,7 +45,7 @@ h2 {
 }
 
 p {
-    font-size: 25px;
+    font-size: 23px;
     letter-spacing: 2px;
 }
 
@@ -64,5 +64,6 @@ p {
     padding: 0; 
     text-align: left;
     letter-spacing: 2px;
-    width: 85%
+    width: 85%;
+    font-size: 25px;
 }
