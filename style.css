@@ -40,9 +40,12 @@ h1, p, h2 {
     text-align: center;
 }
  
+h2 {
+    font-size: 32px;
+}
 
 p {
-    font-size: 32px;
+    font-size: 20px;
 }
 
 .hovedbakgrunn {
