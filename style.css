@@ -41,7 +41,7 @@ h1, p, h2 {
 }
  
 h2 {
-    font-size: 32px !important;
+    font-size: 32px;
 }
 
 p {
