@@ -82,3 +82,7 @@ p {
 a:visited {
     color: #0000EE;
 }
+
+.dashed {
+    border-top: 3px, rgb(164, 125, 190), dashed;
+}
