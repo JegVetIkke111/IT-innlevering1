@@ -71,3 +71,7 @@ p {
     line-height: 1.5;
     text-align: left;
 }
+
+.kilde {
+    font-size: 18px !important;
+}
