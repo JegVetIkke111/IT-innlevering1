@@ -84,5 +84,5 @@ a:visited {
 }
 
 .dashed {
-    border-top: 4px, rgb(164, 125, 190), dashed;
+    border-top: 4px dashed rgb(164, 125, 190);
 }
