@@ -73,5 +73,6 @@ p {
 }
 
 .kilde {
-    line-height: 1 !important;
+    line-height: 1;
+    text-align: left !important;
 }
